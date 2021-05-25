@@ -1,0 +1,12 @@
+The password for the next level is stored in a file called readme located in the home directory. Use this password to log into bandit1 using SSH. Whenever you find a password for a level, use SSH (on port 2220) to log into that level and continue the game.
+
+commands needed:
+          ls: ls is a command to list computer files
+          cd: changes your current directory location
+          cat: outputs the contents of a text file
+          file
+          find: command lists all of the files within a directory and its subdirectories that match a set of conditions
+          du: command reports disk usage (that is, the amount of space taken up by a group of files)
+         
+  commands:
+        -> ls readme
